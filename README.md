@@ -36,8 +36,8 @@ En cada rama de este repositorio podremos encontrar diferentes ejercicios focali
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
-## Versiones
-[![Dart][Dart.io]][Node-url]<br>
+## Frameworks y Lenguajes
+[![Dart][Dart.io]][Dart-url]
 [![Flutter][Flutter.io]][Flutter-url]
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
@@ -57,8 +57,8 @@ En este ejemplo se trabajan los siguientes puntos:
 
 Dependencias:
 <ul> 
-    <li>http (<a href="https://pub.dev/packages/http">link</a>)</li>
-    <li>cached_network_image (<a href="https://pub.dev/packages/cached_network_image">link</a>)</li>
+    <li>http (<a href="https://pub.dev/packages/http" target="_blank">link</a>)</li>
+    <li>cached_network_image (<a href="https://pub.dev/packages/cached_network_image" target="_blank">link</a>)</li>
 </ul>
 <p>(<a href="">Descargar</a>)</p>
 
