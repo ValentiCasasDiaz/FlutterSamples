@@ -16,7 +16,7 @@
     <li>
       <a href="#Fundamentos-de-Flutter">Fundamentos de Flutter</a>
       <ol>
-        <li><a href="#Component-Lesson">Component Lesson</a></li>
+        <li><a href="#Conectar-a-una-API">Conectar a una API</a></li>
       </ol>
     </li>
     <li>
@@ -49,7 +49,7 @@ Mi recomendación es que vayais a la rama pertinente y os descargueis el .zip.
 
 ## Fundamentos de Flutter
 
-### Conexión a una API
+### Conectar a una API
 En este ejemplo se trabajan los siguientes puntos:
 * Una arquitectura limpia donde se separan los ficheros de código en diferentes carpetas para estructurar mejor el proyecto.
 * <b>Future y FutureBuilder:</b> Se usa cuando necesitamos cargar alguna parte de la app de manera asíncrona.
