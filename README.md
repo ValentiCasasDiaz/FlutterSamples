@@ -82,7 +82,7 @@ Dependencias:
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Flutter.io]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter.io]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=3.27.3&labelColor=blue
 [Flutter-url]: https://flutter.dev/
-[Dart.io]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+[Dart.io]: https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=3.6.1&labelColor=blue
 [Dart-url]: https://dart.dev/
